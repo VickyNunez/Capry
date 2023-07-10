@@ -3,7 +3,7 @@
     src: url(../coolvetica\ rg.otf);
 }
 
-/* PAGE - INICIO */
+/* PAGE - INICIO
 
 .navbar {
     padding: 2rem;
@@ -22,19 +22,10 @@ main {
     justify-content: center;
 }
 
-.p-4 h2 {
+.titulos-principales h2 {
     font-family: 'Roboto Slab', serif;
 
 }
-
-.bg-1 {
-    background-color: #371f13;
-}
-
-a {
-    font-family: 'coolvetica', serif;
-}
-
 
 .novedades {
     margin-top: 50px;
@@ -46,11 +37,6 @@ a {
     margin-bottom: 50px;
 }
 
-
-footer img{
-    width: 3%;
-}
-
 footer{
     background-color: #371f13;
     padding: 10px;
@@ -59,7 +45,7 @@ footer{
 
  
 
-/* PAGE - HABLEMOS */
+------ PAGE ------ HABLEMOS ------
 
 .hablemos {
     margin: 40px;
@@ -68,3 +54,4 @@ footer{
 form {
     display: inline-flexbox;
 }
+*/

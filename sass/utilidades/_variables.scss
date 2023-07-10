@@ -1,0 +1,11 @@
+$primary-color: #371f13;
+$secondary-color: #e1b1e6;
+
+.btn{
+    background-color: $primary-color;
+    border-color: transparent;
+}
+.btn:hover{
+    background-color: $secondary-color;
+    border-color: transparent;
+}
