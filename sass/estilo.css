@@ -10,8 +10,9 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #371f13;
+  background-color:#371f13
 }
+
 .navbar .navbar-collapse {
   align-items: center;
   justify-content: center;
@@ -36,6 +37,11 @@ main .titulos-principales h2 {
 .novedades {
   margin-top: 50px;
   margin-bottom: 50px;
+  font-size: medium;
+}
+
+.mapa {
+  text-align: center;
 }
 
 .hablemos {
